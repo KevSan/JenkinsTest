@@ -3,5 +3,5 @@ import time
 
 
 print("start of script")
-time.sleep(30)
+time.sleep(60*5)
 os.system("ls")
